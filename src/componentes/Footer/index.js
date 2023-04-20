@@ -5,7 +5,7 @@ function Footer() {
   return (
     <FooterBase>
       <a href="https://www.alura.com.br/">
-        <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
+        <img src="https://dougflix-mu.vercel.app/static/media/Logo.559aed860e70b4db05c4.png" alt="Logo Dougflix" />
       </a>
       <p>
         Orgulhosamente criado durante a

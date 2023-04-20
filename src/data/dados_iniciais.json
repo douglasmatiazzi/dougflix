@@ -1,183 +1,259 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Costas",      
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Dicas de treino de costas",
+        "url": "https://www.youtube.com/watch?v=aA5HSeaCK5o&pp=ygUWZGljYXMgdHJlaW5vIGRlIGNvc3Rhcw%3D%3D"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Barra Fixa",
+          "url": "https://www.youtube.com/watch?v=hU-B0R6U-4A&pp=ygUVYmFycmEgZml4YSBjb21vIGZhemVy"
+        },       
+        {
+          "titulo": "Pulley Frente",
+          "url": "https://www.youtube.com/watch?v=hOCkiWXdEYg&pp=ygUYcHVsbGV5IGZyZW50ZSBleGVjdcOnw6Nv"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Remada Curvada com Barra",
+          "url": "https://www.youtube.com/watch?v=mxvS-iwm53o&pp=ygUYcmVtYWRhIGN1cnZhZGEgY29tIGJhcnJh"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Remada Baixa Triângulo",
+          "url": "https://www.youtube.com/watch?v=mUgFn3aMAP4&pp=ygUUcmVtYWRhIGNvbSB0cmlhbmd1bG8%3D"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Serrote com Halter",
+          "url": "https://www.youtube.com/watch?v=UIDeS0aMQO8&pp=ygUSc2Vycm90ZSBjb20gaGFsdGVy"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Pulldown",
+          "url": "https://www.youtube.com/watch?v=vdtCzAGo6tY&pp=ygUJcHVsbCBkb3du"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Voador Invertido",
+          "url": "https://www.youtube.com/watch?v=ML_YkZ7OOrY&pp=ygUQdm9hZG9yIGludmVydGlkbw%3D%3D"
+        } 
+      ]
+    },
+    {
+      "titulo": "Perna",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Dicas de treino de perna",
+        "url": "https://www.youtube.com/watch?v=9DbvJDgOMeM&t=277s&pp=ygUVZGljYXMgdHJlaW5vIGRlIHBlcm5h"
+      },
+      "videos": [
+        {
+          "titulo": "Agachamento Livre",
+          "url": "https://www.youtube.com/watch?v=g-73WZ_c6m4&pp=ygURYWdhY2hhbWVudG8gbGl2cmU%3D"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Levantamento Terra",
+          "url": "https://www.youtube.com/watch?v=0Et5echrei8&pp=ygUSbGV2YW50YW1lbnRvIHRlcnJh"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Leg Press 45º",
+          "url": "https://www.youtube.com/watch?v=xczGwAyCn74&pp=ygUNbGVnIHByZXNzIDQ1IA%3D%3D"
+        },
+        {
+          "titulo": "Cadeira Extensora",
+          "url": "https://www.youtube.com/watch?v=y6juG3XuRe4&pp=ygURY2FkZWlyYSBleHRlbnNvcmE%3D"
+        },
+        {
+          "titulo": "Mesa Flexora",
+          "url": "https://www.youtube.com/watch?v=dMYsB4Eb2BY&pp=ygUMbWVzYSBmbGV4b3Jh"
+        },
+        {
+          "titulo": "Elevação Pélvica",
+          "url": "https://www.youtube.com/watch?v=hzSp2bDerCU&pp=ygUSZWxldmHDp8OjbyBwZWx2aWNh"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
-      ]
-    },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Peito",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Dicas de treino de peito",
+        "url": "https://www.youtube.com/watch?v=_jUFx2qcTL8&pp=ygUVZGljYXMgdHJlaW5vIGRlIHBlaXRv"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Supino Inclinado com Halteres",
+          "url": "https://www.youtube.com/watch?v=F4Q1g2z8MWM&pp=ygUdc3VwaW5vIGluY2xpbmFkbyBjb20gaGFsdGVyZXM%3D"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Supino Reto com Halteres",
+          "url": "https://www.youtube.com/watch?v=SWVO95XzxKg&pp=ygUYc3VwaW5vIHJldG8gY29tIGhhbHRlcmVz"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Crossover",
+          "url": "https://www.youtube.com/watch?v=ifwx2iuv4kA&pp=ygUJY3Jvc3NvdmVy"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Voador",
+          "url": "https://www.youtube.com/watch?v=6_AZBJn7bO0&pp=ygUGdm9hZG9y"
+        },
+        {
+          "titulo": "Flexão",
+          "url": "https://www.youtube.com/watch?v=F9FC_KBsLpY&pp=ygURZmxleMOjbyBkZSBicmHDp28%3D"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Ombro",
       "cor": "orange",
+      "link_extra": {
+        "text": "Dicas de treino de ombro",
+        "url": "https://www.youtube.com/watch?v=37Xo439lLkw&pp=ygULZGljYXMgb21icm8%3D"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Desenvolvimento com Halteres",
+          "url": "https://www.youtube.com/watch?v=Nu1lKrS-Vvw&pp=ygUcZGVzZW52b2x2aW1lbnRvIGNvbSBoYWx0ZXJlcw%3D%3D"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Elevação Lateral",
+          "url": "https://www.youtube.com/watch?v=c7zMmbWkUPw&pp=ygUSZWxldmHDp8OjbyBsYXRlcmFs"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Elevação Frontal",
+          "url": "https://www.youtube.com/watch?v=RUzWF4aDt7g&pp=ygUTZWxldmHDp8OjbyBsZnJvbnRhbA%3D%3D"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Elevação Unilateral Polia",
+          "url": "https://www.youtube.com/watch?v=ze9B6VX4nUs&pp=ygUeZWxldmHDp8OjbyB1bmlsYXRlcmFsIG5hIHBvbGlh"
         }
+        
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Bíceps",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Dicas de treino de bíceps",
+        "url": "https://www.youtube.com/watch?v=CCduKpxFXj8&pp=ygUMZGljYXMgYmljZXBz"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Rosca Direta",
+          "url": "https://www.youtube.com/watch?v=po8ibB0yY0Q&pp=ygUMUm9zY2EgZGlyZXRh"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Rosca Scott",
+          "url": "https://www.youtube.com/watch?v=wWKrF4iSU_8&pp=ygULUm9zY2Egc2NvdHQ%3D"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Rosca no Banco Inclinado",
+          "url": "https://www.youtube.com/watch?v=vBlAAJ_Dzmc&pp=ygUYUm9zY2Egbm8gYmFuY28gaW5jbGluYWRv"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Rosca na Polia",
+          "url": "https://www.youtube.com/watch?v=X12n32mNBp8&pp=ygUOUm9zY2EgbmEgcG9saWE%3D"
+        }        
+      ]
+    },
+    {
+      "titulo": "Tríceps",
+      "cor": "purple",
+      "link_extra": {
+        "text": "Dicas de treino de tríceps",
+        "url": "https://www.youtube.com/watch?v=N3WLWwd8R-k&pp=ygUNZGljYXMgdHJpY2Vwcw%3D%3D"
+      },
+      "videos": [
+        {
+          "titulo": "Testa",
+          "url": "https://www.youtube.com/watch?v=mvGvq25L2EM&pp=ygUNdHJpY2VwcyB0ZXN0YQ%3D%3D"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Corda",
+          "url": "https://www.youtube.com/watch?v=btj6dDfAQ2w&pp=ygUNdHJpY2VwcyBjb3JkYQ%3D%3D"
+        },
+        {
+          "titulo": "Francês",
+          "url": "https://www.youtube.com/watch?v=9EkGm94Q2Ms&pp=ygUPdHJpY2VwcyBmcmFuY2Vz"
+        },
+        {
+          "titulo": "Pulley",
+          "url": "https://www.youtube.com/watch?v=EHe8HBIPdGU&pp=ygUOdHJpY2VwcyBwdWxsZXk%3D"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Panturrilha",
+      "cor": "gold",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Dicas de treino de panturrilha",
+        "url": "https://www.youtube.com/watch?v=9f7ch37y73E&pp=ygURZGljYXMgcGFudHVycmlsaGE%3D"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Gêmeos em Pé",
+          "url": "https://www.youtube.com/watch?v=VMa37XJdejk&pp=ygUNZ2VtZW9zIGVtIHDDqQ%3D%3D"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Gêmeos Sentado",
+          "url": "https://www.youtube.com/watch?v=DGvxrshsEEk&pp=ygUOZ2VtZW9zIHNlbnRhZG8%3D"
+        }
+      ]
+    },
+    {
+      "titulo": "Abdômen",
+      "cor": "fuchsia",
+      "link_extra": {
+        "text": "Dicas de treino de abdômen",
+        "url": "https://www.youtube.com/watch?v=As7ee-ZlT9Q&t=285s&pp=ygUNZGljYXMgYWJkb21lbg%3D%3D"
+      },
+      "videos": [
+        {
+          "titulo": "Supra",
+          "url": "https://www.youtube.com/watch?v=t4PBYd481nk&ab_channel=RodrigoZagoTreinador"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Infra",
+          "url": "https://www.youtube.com/watch?v=8slFJ9J31lM&pp=ygUPYWJkb21pbmFsIGluZnJh"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Prancha",
+          "url": "https://www.youtube.com/watch?v=A3YYT8wvxHs&pp=ygURYWJkb21pbmFsIHByYW5jaGE%3D"
+        }
+      ]
+    },
+    {
+      "titulo": "Antebraço",
+      "cor": "cyan",
+      "link_extra": {
+        "text": "Dicas de treino de antebraço",
+        "url": "https://www.youtube.com/shorts/vobf-iKe41o"
+      },
+      "videos": [
+        {
+          "titulo": "Rosca Punho",
+          "url": "https://www.youtube.com/watch?v=1ZmXT_fpLOI&pp=ygULcm9zY2EgcHVuaG8%3D"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Rosca Inversa",
+          "url": "https://www.youtube.com/watch?v=0587NfWzEec&pp=ygUNcm9zY2EgaW52ZXJzYQ%3D%3D"
+        }
+      ]
+    },
+    {
+      "titulo": "Trapézio",
+      "cor": "coral",
+      "link_extra": {
+        "text": "Dicas de treino de trapézio",
+        "url": "https://www.youtube.com/watch?v=SUEu4S2MEUc&pp=ygUPZGljYXMgdHJhcMOpemlv"
+      },
+      "videos": [
+        {
+          "titulo": "Encolhimento",
+          "url": "https://www.youtube.com/watch?v=ZzJ3zelC0qI&pp=ygUVZW5jb2xoaW1lbnRvIGhhbHRlcmVz"
+        },
+        {
+          "titulo": "Remada Alta",
+          "url": "https://www.youtube.com/watch?v=Z6jSLKXZ0Ag&pp=ygULcmVtYWRhIGFsdGE%3D"
         }
       ]
     }
